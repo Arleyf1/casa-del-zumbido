@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/casa-del-zumbido/static/css/main.f855e6bc.css",
+    "main.js": "/casa-del-zumbido/static/js/main.f1a037cd.js",
+    "static/js/453.6a56f446.chunk.js": "/casa-del-zumbido/static/js/453.6a56f446.chunk.js",
+    "static/media/logo.svg": "/casa-del-zumbido/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/casa-del-zumbido/index.html",
+    "main.f855e6bc.css.map": "/casa-del-zumbido/static/css/main.f855e6bc.css.map",
+    "main.f1a037cd.js.map": "/casa-del-zumbido/static/js/main.f1a037cd.js.map",
+    "453.6a56f446.chunk.js.map": "/casa-del-zumbido/static/js/453.6a56f446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f1a037cd.js"
+  ]
+}
